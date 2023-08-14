@@ -8,6 +8,9 @@ dependencies:
   '@supabase/supabase-js':
     specifier: ^2.32.0
     version: 2.32.0
+  lucia-auth:
+    specifier: ^1.8.0
+    version: 1.8.0
 
 devDependencies:
   '@skeletonlabs/skeleton':
@@ -970,6 +973,10 @@ packages:
   /locate-character@3.0.0:
     resolution: {integrity: sha512-SW13ws7BjaeJ6p7Q6CO2nchbYEc3X3J6WrmTTDto7yMPqVSZTUyY5Tjbid+Ab8gLnATtygYtiDIJGQRRn2ZOiA==}
     dev: true
+
+  /lucia-auth@1.8.0:
+    resolution: {integrity: sha512-zI8gT2AOpxTPIxYzToEdgoht+GOflrduZiHPsOEmg4/2pThOyCW3o3lXh+Uwh20tJ9QoXwQe9/Omn6PlUG6efw==}
+    dev: false
 
   /magic-string@0.27.0:
     resolution: {integrity: sha512-8UnnX2PeRAPZuN12svgR9j7M1uWMovg/CEnIwIG0LFkXSJJe4PdfUGiTGl8V9bsBHFUtfVINcSyYxd7q+kx9fA==}

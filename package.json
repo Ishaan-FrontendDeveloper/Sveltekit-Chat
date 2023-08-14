@@ -24,6 +24,7 @@
   },
   "type": "module",
   "dependencies": {
-    "@supabase/supabase-js": "^2.32.0"
+    "@supabase/supabase-js": "^2.32.0",
+    "lucia-auth": "^1.8.0"
   }
 }

@@ -6,7 +6,7 @@ import '@skeletonlabs/skeleton/styles/skeleton.css';
 import "../app.postcss";
 </script>
 <svelte:head>
-   <title>Chat-sup </title>
+   <title>ChitChat - A simple chat app</title>
 </svelte:head>
 
 <Header/>
